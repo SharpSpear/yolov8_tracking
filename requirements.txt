@@ -3,4 +3,3 @@ ultralytics
 opencv-python
 pafy
 youtube_dl
-lap
